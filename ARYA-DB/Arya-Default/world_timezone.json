@@ -1,0 +1,2539 @@
+[{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18b7"
+  },
+  "country_code": "AE",
+  "timezone_name": "Asia/Dubai"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18b8"
+  },
+  "country_code": "AF",
+  "timezone_name": "Asia/Kabul"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18b9"
+  },
+  "country_code": "AG",
+  "timezone_name": "America/Antigua"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18ba"
+  },
+  "country_code": "AI",
+  "timezone_name": "America/Anguilla"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18bb"
+  },
+  "country_code": "AL",
+  "timezone_name": "Europe/Tirane"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18bc"
+  },
+  "country_code": "AM",
+  "timezone_name": "Asia/Yerevan"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18bd"
+  },
+  "country_code": "AO",
+  "timezone_name": "Africa/Luanda"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18be"
+  },
+  "country_code": "AQ",
+  "timezone_name": "Antarctica/McMurdo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18bf"
+  },
+  "country_code": "AQ",
+  "timezone_name": "Antarctica/Casey"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18c0"
+  },
+  "country_code": "AQ",
+  "timezone_name": "Antarctica/Davis"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18c1"
+  },
+  "country_code": "AQ",
+  "timezone_name": "Antarctica/DumontDUrville"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18c2"
+  },
+  "country_code": "AQ",
+  "timezone_name": "Antarctica/Mawson"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18c3"
+  },
+  "country_code": "AQ",
+  "timezone_name": "Antarctica/Palmer"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18c4"
+  },
+  "country_code": "AQ",
+  "timezone_name": "Antarctica/Rothera"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18c5"
+  },
+  "country_code": "AQ",
+  "timezone_name": "Antarctica/Syowa"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18c6"
+  },
+  "country_code": "AQ",
+  "timezone_name": "Antarctica/Troll"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18c7"
+  },
+  "country_code": "AQ",
+  "timezone_name": "Antarctica/Vostok"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18c8"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/Buenos_Aires"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18c9"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/Cordoba"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18ca"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/Salta"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18cb"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/Jujuy"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18cc"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/Tucuman"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18cd"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/Catamarca"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18ce"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/La_Rioja"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18cf"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/San_Juan"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18d0"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/Mendoza"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18d1"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/San_Luis"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18d2"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/Rio_Gallegos"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18d3"
+  },
+  "country_code": "AR",
+  "timezone_name": "America/Argentina/Ushuaia"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18d4"
+  },
+  "country_code": "AS",
+  "timezone_name": "Pacific/Pago_Pago"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18d5"
+  },
+  "country_code": "AT",
+  "timezone_name": "Europe/Vienna"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18d6"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Lord_Howe"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18d7"
+  },
+  "country_code": "AU",
+  "timezone_name": "Antarctica/Macquarie"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18d8"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Hobart"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18d9"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Currie"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18da"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Melbourne"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18db"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Sydney"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18dc"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Broken_Hill"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18dd"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Brisbane"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18de"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Lindeman"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18df"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Adelaide"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18e0"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Darwin"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18e1"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Perth"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18e2"
+  },
+  "country_code": "AU",
+  "timezone_name": "Australia/Eucla"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18e3"
+  },
+  "country_code": "AW",
+  "timezone_name": "America/Aruba"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18e4"
+  },
+  "country_code": "AX",
+  "timezone_name": "Europe/Mariehamn"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18e5"
+  },
+  "country_code": "AZ",
+  "timezone_name": "Asia/Baku"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18e6"
+  },
+  "country_code": "BA",
+  "timezone_name": "Europe/Sarajevo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18e7"
+  },
+  "country_code": "BB",
+  "timezone_name": "America/Barbados"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18e8"
+  },
+  "country_code": "BD",
+  "timezone_name": "Asia/Dhaka"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18e9"
+  },
+  "country_code": "BE",
+  "timezone_name": "Europe/Brussels"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18ea"
+  },
+  "country_code": "BF",
+  "timezone_name": "Africa/Ouagadougou"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18eb"
+  },
+  "country_code": "BG",
+  "timezone_name": "Europe/Sofia"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18ec"
+  },
+  "country_code": "BH",
+  "timezone_name": "Asia/Bahrain"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18ed"
+  },
+  "country_code": "BI",
+  "timezone_name": "Africa/Bujumbura"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18ee"
+  },
+  "country_code": "BJ",
+  "timezone_name": "Africa/Porto-Novo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18ef"
+  },
+  "country_code": "BL",
+  "timezone_name": "America/St_Barthelemy"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18f0"
+  },
+  "country_code": "BM",
+  "timezone_name": "Atlantic/Bermuda"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18f1"
+  },
+  "country_code": "BN",
+  "timezone_name": "Asia/Brunei"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18f2"
+  },
+  "country_code": "BO",
+  "timezone_name": "America/La_Paz"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18f3"
+  },
+  "country_code": "BQ",
+  "timezone_name": "America/Kralendijk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18f4"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Noronha"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18f5"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Belem"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18f6"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Fortaleza"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18f7"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Recife"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18f8"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Araguaina"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18f9"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Maceio"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18fa"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Bahia"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18fb"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Sao_Paulo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18fc"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Campo_Grande"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18fd"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Cuiaba"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18fe"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Santarem"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f18ff"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Porto_Velho"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1900"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Boa_Vista"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1901"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Manaus"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1902"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Eirunepe"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1903"
+  },
+  "country_code": "BR",
+  "timezone_name": "America/Rio_Branco"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1904"
+  },
+  "country_code": "BS",
+  "timezone_name": "America/Nassau"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1905"
+  },
+  "country_code": "BT",
+  "timezone_name": "Asia/Thimphu"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1906"
+  },
+  "country_code": "BW",
+  "timezone_name": "Africa/Gaborone"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1907"
+  },
+  "country_code": "BY",
+  "timezone_name": "Europe/Minsk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1908"
+  },
+  "country_code": "BZ",
+  "timezone_name": "America/Belize"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1909"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/St_Johns"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f190a"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Halifax"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f190b"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Glace_Bay"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f190c"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Moncton"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f190d"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Goose_Bay"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f190e"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Blanc-Sablon"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f190f"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Toronto"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1910"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Nipigon"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1911"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Thunder_Bay"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1912"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Iqaluit"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1913"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Pangnirtung"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1914"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Atikokan"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1915"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Winnipeg"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1916"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Rainy_River"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1917"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Resolute"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1918"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Rankin_Inlet"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1919"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Regina"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f191a"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Swift_Current"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f191b"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Edmonton"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f191c"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Cambridge_Bay"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f191d"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Yellowknife"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f191e"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Inuvik"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f191f"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Creston"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1920"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Dawson_Creek"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1921"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Fort_Nelson"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1922"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Vancouver"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1923"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Whitehorse"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1924"
+  },
+  "country_code": "CA",
+  "timezone_name": "America/Dawson"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1925"
+  },
+  "country_code": "CC",
+  "timezone_name": "Indian/Cocos"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1926"
+  },
+  "country_code": "CD",
+  "timezone_name": "Africa/Kinshasa"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1927"
+  },
+  "country_code": "CD",
+  "timezone_name": "Africa/Lubumbashi"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1928"
+  },
+  "country_code": "CF",
+  "timezone_name": "Africa/Bangui"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1929"
+  },
+  "country_code": "CG",
+  "timezone_name": "Africa/Brazzaville"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f192a"
+  },
+  "country_code": "CH",
+  "timezone_name": "Europe/Zurich"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f192b"
+  },
+  "country_code": "CI",
+  "timezone_name": "Africa/Abidjan"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f192c"
+  },
+  "country_code": "CK",
+  "timezone_name": "Pacific/Rarotonga"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f192d"
+  },
+  "country_code": "CL",
+  "timezone_name": "America/Santiago"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f192e"
+  },
+  "country_code": "CL",
+  "timezone_name": "America/Punta_Arenas"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f192f"
+  },
+  "country_code": "CL",
+  "timezone_name": "Pacific/Easter"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1930"
+  },
+  "country_code": "CM",
+  "timezone_name": "Africa/Douala"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1931"
+  },
+  "country_code": "CN",
+  "timezone_name": "Asia/Shanghai"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1932"
+  },
+  "country_code": "CN",
+  "timezone_name": "Asia/Urumqi"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1933"
+  },
+  "country_code": "CO",
+  "timezone_name": "America/Bogota"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1934"
+  },
+  "country_code": "CR",
+  "timezone_name": "America/Costa_Rica"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1935"
+  },
+  "country_code": "CU",
+  "timezone_name": "America/Havana"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1936"
+  },
+  "country_code": "CV",
+  "timezone_name": "Atlantic/Cape_Verde"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1937"
+  },
+  "country_code": "CW",
+  "timezone_name": "America/Curacao"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1938"
+  },
+  "country_code": "CX",
+  "timezone_name": "Indian/Christmas"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1939"
+  },
+  "country_code": "CY",
+  "timezone_name": "Asia/Nicosia"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f193a"
+  },
+  "country_code": "CY",
+  "timezone_name": "Asia/Famagusta"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f193b"
+  },
+  "country_code": "CZ",
+  "timezone_name": "Europe/Prague"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f193c"
+  },
+  "country_code": "DE",
+  "timezone_name": "Europe/Berlin"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f193d"
+  },
+  "country_code": "DE",
+  "timezone_name": "Europe/Busingen"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f193e"
+  },
+  "country_code": "DJ",
+  "timezone_name": "Africa/Djibouti"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f193f"
+  },
+  "country_code": "DK",
+  "timezone_name": "Europe/Copenhagen"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1940"
+  },
+  "country_code": "DM",
+  "timezone_name": "America/Dominica"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1941"
+  },
+  "country_code": "DO",
+  "timezone_name": "America/Santo_Domingo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1942"
+  },
+  "country_code": "DZ",
+  "timezone_name": "Africa/Algiers"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1943"
+  },
+  "country_code": "EC",
+  "timezone_name": "America/Guayaquil"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1944"
+  },
+  "country_code": "EC",
+  "timezone_name": "Pacific/Galapagos"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1945"
+  },
+  "country_code": "EE",
+  "timezone_name": "Europe/Tallinn"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1946"
+  },
+  "country_code": "EG",
+  "timezone_name": "Africa/Cairo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1947"
+  },
+  "country_code": "EH",
+  "timezone_name": "Africa/El_Aaiun"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1948"
+  },
+  "country_code": "ER",
+  "timezone_name": "Africa/Asmara"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1949"
+  },
+  "country_code": "ES",
+  "timezone_name": "Europe/Madrid"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f194a"
+  },
+  "country_code": "ES",
+  "timezone_name": "Africa/Ceuta"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f194b"
+  },
+  "country_code": "ES",
+  "timezone_name": "Atlantic/Canary"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f194c"
+  },
+  "country_code": "ET",
+  "timezone_name": "Africa/Addis_Ababa"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f194d"
+  },
+  "country_code": "FI",
+  "timezone_name": "Europe/Helsinki"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f194e"
+  },
+  "country_code": "FJ",
+  "timezone_name": "Pacific/Fiji"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f194f"
+  },
+  "country_code": "FK",
+  "timezone_name": "Atlantic/Stanley"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1950"
+  },
+  "country_code": "FM",
+  "timezone_name": "Pacific/Chuuk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1951"
+  },
+  "country_code": "FM",
+  "timezone_name": "Pacific/Pohnpei"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1952"
+  },
+  "country_code": "FM",
+  "timezone_name": "Pacific/Kosrae"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1953"
+  },
+  "country_code": "FO",
+  "timezone_name": "Atlantic/Faroe"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1954"
+  },
+  "country_code": "FR",
+  "timezone_name": "Europe/Paris"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1955"
+  },
+  "country_code": "GA",
+  "timezone_name": "Africa/Libreville"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1956"
+  },
+  "country_code": "GB",
+  "timezone_name": "Europe/London"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1957"
+  },
+  "country_code": "GD",
+  "timezone_name": "America/Grenada"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1958"
+  },
+  "country_code": "GE",
+  "timezone_name": "Asia/Tbilisi"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1959"
+  },
+  "country_code": "GF",
+  "timezone_name": "America/Cayenne"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f195a"
+  },
+  "country_code": "GG",
+  "timezone_name": "Europe/Guernsey"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f195b"
+  },
+  "country_code": "GH",
+  "timezone_name": "Africa/Accra"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f195c"
+  },
+  "country_code": "GI",
+  "timezone_name": "Europe/Gibraltar"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f195d"
+  },
+  "country_code": "GL",
+  "timezone_name": "America/Godthab"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f195e"
+  },
+  "country_code": "GL",
+  "timezone_name": "America/Danmarkshavn"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f195f"
+  },
+  "country_code": "GL",
+  "timezone_name": "America/Scoresbysund"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1960"
+  },
+  "country_code": "GL",
+  "timezone_name": "America/Thule"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1961"
+  },
+  "country_code": "GM",
+  "timezone_name": "Africa/Banjul"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1962"
+  },
+  "country_code": "GN",
+  "timezone_name": "Africa/Conakry"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1963"
+  },
+  "country_code": "GP",
+  "timezone_name": "America/Guadeloupe"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1964"
+  },
+  "country_code": "GQ",
+  "timezone_name": "Africa/Malabo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1965"
+  },
+  "country_code": "GR",
+  "timezone_name": "Europe/Athens"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1966"
+  },
+  "country_code": "GS",
+  "timezone_name": "Atlantic/South_Georgia"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1967"
+  },
+  "country_code": "GT",
+  "timezone_name": "America/Guatemala"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1968"
+  },
+  "country_code": "GU",
+  "timezone_name": "Pacific/Guam"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1969"
+  },
+  "country_code": "GW",
+  "timezone_name": "Africa/Bissau"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f196a"
+  },
+  "country_code": "GY",
+  "timezone_name": "America/Guyana"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f196b"
+  },
+  "country_code": "HK",
+  "timezone_name": "Asia/Hong_Kong"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f196c"
+  },
+  "country_code": "HN",
+  "timezone_name": "America/Tegucigalpa"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f196d"
+  },
+  "country_code": "HR",
+  "timezone_name": "Europe/Zagreb"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f196e"
+  },
+  "country_code": "HT",
+  "timezone_name": "America/Port-au-Prince"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f196f"
+  },
+  "country_code": "HU",
+  "timezone_name": "Europe/Budapest"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1970"
+  },
+  "country_code": "ID",
+  "timezone_name": "Asia/Jakarta"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1971"
+  },
+  "country_code": "ID",
+  "timezone_name": "Asia/Pontianak"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1972"
+  },
+  "country_code": "ID",
+  "timezone_name": "Asia/Makassar"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1973"
+  },
+  "country_code": "ID",
+  "timezone_name": "Asia/Jayapura"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1974"
+  },
+  "country_code": "IE",
+  "timezone_name": "Europe/Dublin"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1975"
+  },
+  "country_code": "IL",
+  "timezone_name": "Asia/Jerusalem"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1976"
+  },
+  "country_code": "IM",
+  "timezone_name": "Europe/Isle_of_Man"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1977"
+  },
+  "country_code": "IN",
+  "timezone_name": "Asia/Kolkata"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1978"
+  },
+  "country_code": "IO",
+  "timezone_name": "Indian/Chagos"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1979"
+  },
+  "country_code": "IQ",
+  "timezone_name": "Asia/Baghdad"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f197a"
+  },
+  "country_code": "IR",
+  "timezone_name": "Asia/Tehran"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f197b"
+  },
+  "country_code": "IS",
+  "timezone_name": "Atlantic/Reykjavik"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f197c"
+  },
+  "country_code": "IT",
+  "timezone_name": "Europe/Rome"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f197d"
+  },
+  "country_code": "JE",
+  "timezone_name": "Europe/Jersey"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f197e"
+  },
+  "country_code": "JM",
+  "timezone_name": "America/Jamaica"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f197f"
+  },
+  "country_code": "JO",
+  "timezone_name": "Asia/Amman"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1980"
+  },
+  "country_code": "JP",
+  "timezone_name": "Asia/Tokyo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1981"
+  },
+  "country_code": "KE",
+  "timezone_name": "Africa/Nairobi"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1982"
+  },
+  "country_code": "KG",
+  "timezone_name": "Asia/Bishkek"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1983"
+  },
+  "country_code": "KH",
+  "timezone_name": "Asia/Phnom_Penh"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1984"
+  },
+  "country_code": "KI",
+  "timezone_name": "Pacific/Tarawa"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1985"
+  },
+  "country_code": "KI",
+  "timezone_name": "Pacific/Enderbury"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1986"
+  },
+  "country_code": "KI",
+  "timezone_name": "Pacific/Kiritimati"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1987"
+  },
+  "country_code": "KM",
+  "timezone_name": "Indian/Comoro"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1988"
+  },
+  "country_code": "KN",
+  "timezone_name": "America/St_Kitts"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1989"
+  },
+  "country_code": "KP",
+  "timezone_name": "Asia/Pyongyang"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f198a"
+  },
+  "country_code": "KR",
+  "timezone_name": "Asia/Seoul"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f198b"
+  },
+  "country_code": "KW",
+  "timezone_name": "Asia/Kuwait"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f198c"
+  },
+  "country_code": "KY",
+  "timezone_name": "America/Cayman"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f198d"
+  },
+  "country_code": "KZ",
+  "timezone_name": "Asia/Almaty"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f198e"
+  },
+  "country_code": "KZ",
+  "timezone_name": "Asia/Qyzylorda"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f198f"
+  },
+  "country_code": "KZ",
+  "timezone_name": "Asia/Qostanay"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1990"
+  },
+  "country_code": "KZ",
+  "timezone_name": "Asia/Aqtobe"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1991"
+  },
+  "country_code": "KZ",
+  "timezone_name": "Asia/Aqtau"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1992"
+  },
+  "country_code": "KZ",
+  "timezone_name": "Asia/Atyrau"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1993"
+  },
+  "country_code": "KZ",
+  "timezone_name": "Asia/Oral"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1994"
+  },
+  "country_code": "LA",
+  "timezone_name": "Asia/Vientiane"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1995"
+  },
+  "country_code": "LB",
+  "timezone_name": "Asia/Beirut"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1996"
+  },
+  "country_code": "LC",
+  "timezone_name": "America/St_Lucia"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1997"
+  },
+  "country_code": "LI",
+  "timezone_name": "Europe/Vaduz"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1998"
+  },
+  "country_code": "LK",
+  "timezone_name": "Asia/Colombo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1999"
+  },
+  "country_code": "LR",
+  "timezone_name": "Africa/Monrovia"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f199a"
+  },
+  "country_code": "LS",
+  "timezone_name": "Africa/Maseru"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f199b"
+  },
+  "country_code": "LT",
+  "timezone_name": "Europe/Vilnius"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f199c"
+  },
+  "country_code": "LU",
+  "timezone_name": "Europe/Luxembourg"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f199d"
+  },
+  "country_code": "LV",
+  "timezone_name": "Europe/Riga"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f199e"
+  },
+  "country_code": "LY",
+  "timezone_name": "Africa/Tripoli"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f199f"
+  },
+  "country_code": "MA",
+  "timezone_name": "Africa/Casablanca"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19a0"
+  },
+  "country_code": "MC",
+  "timezone_name": "Europe/Monaco"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19a1"
+  },
+  "country_code": "MD",
+  "timezone_name": "Europe/Chisinau"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19a2"
+  },
+  "country_code": "ME",
+  "timezone_name": "Europe/Podgorica"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19a3"
+  },
+  "country_code": "MF",
+  "timezone_name": "America/Marigot"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19a4"
+  },
+  "country_code": "MG",
+  "timezone_name": "Indian/Antananarivo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19a5"
+  },
+  "country_code": "MH",
+  "timezone_name": "Pacific/Majuro"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19a6"
+  },
+  "country_code": "MH",
+  "timezone_name": "Pacific/Kwajalein"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19a7"
+  },
+  "country_code": "MK",
+  "timezone_name": "Europe/Skopje"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19a8"
+  },
+  "country_code": "ML",
+  "timezone_name": "Africa/Bamako"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19a9"
+  },
+  "country_code": "MM",
+  "timezone_name": "Asia/Yangon"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19aa"
+  },
+  "country_code": "MN",
+  "timezone_name": "Asia/Ulaanbaatar"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ab"
+  },
+  "country_code": "MN",
+  "timezone_name": "Asia/Hovd"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ac"
+  },
+  "country_code": "MN",
+  "timezone_name": "Asia/Choibalsan"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ad"
+  },
+  "country_code": "MO",
+  "timezone_name": "Asia/Macau"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ae"
+  },
+  "country_code": "MP",
+  "timezone_name": "Pacific/Saipan"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19af"
+  },
+  "country_code": "MQ",
+  "timezone_name": "America/Martinique"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19b0"
+  },
+  "country_code": "MR",
+  "timezone_name": "Africa/Nouakchott"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19b1"
+  },
+  "country_code": "MS",
+  "timezone_name": "America/Montserrat"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19b2"
+  },
+  "country_code": "MT",
+  "timezone_name": "Europe/Malta"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19b3"
+  },
+  "country_code": "MU",
+  "timezone_name": "Indian/Mauritius"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19b4"
+  },
+  "country_code": "MV",
+  "timezone_name": "Indian/Maldives"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19b5"
+  },
+  "country_code": "MW",
+  "timezone_name": "Africa/Blantyre"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19b6"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Mexico_City"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19b7"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Cancun"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19b8"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Merida"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19b9"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Monterrey"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ba"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Matamoros"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19bb"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Mazatlan"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19bc"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Chihuahua"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19bd"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Ojinaga"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19be"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Hermosillo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19bf"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Tijuana"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19c0"
+  },
+  "country_code": "MX",
+  "timezone_name": "America/Bahia_Banderas"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19c1"
+  },
+  "country_code": "MY",
+  "timezone_name": "Asia/Kuala_Lumpur"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19c2"
+  },
+  "country_code": "MY",
+  "timezone_name": "Asia/Kuching"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19c3"
+  },
+  "country_code": "MZ",
+  "timezone_name": "Africa/Maputo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19c4"
+  },
+  "country_code": "NA",
+  "timezone_name": "Africa/Windhoek"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19c5"
+  },
+  "country_code": "NC",
+  "timezone_name": "Pacific/Noumea"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19c6"
+  },
+  "country_code": "NE",
+  "timezone_name": "Africa/Niamey"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19c7"
+  },
+  "country_code": "NF",
+  "timezone_name": "Pacific/Norfolk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19c8"
+  },
+  "country_code": "NG",
+  "timezone_name": "Africa/Lagos"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19c9"
+  },
+  "country_code": "NI",
+  "timezone_name": "America/Managua"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ca"
+  },
+  "country_code": "NL",
+  "timezone_name": "Europe/Amsterdam"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19cb"
+  },
+  "country_code": "NO",
+  "timezone_name": "Europe/Oslo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19cc"
+  },
+  "country_code": "NP",
+  "timezone_name": "Asia/Kathmandu"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19cd"
+  },
+  "country_code": "NR",
+  "timezone_name": "Pacific/Nauru"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ce"
+  },
+  "country_code": "NU",
+  "timezone_name": "Pacific/Niue"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19cf"
+  },
+  "country_code": "NZ",
+  "timezone_name": "Pacific/Auckland"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19d0"
+  },
+  "country_code": "NZ",
+  "timezone_name": "Pacific/Chatham"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19d1"
+  },
+  "country_code": "OM",
+  "timezone_name": "Asia/Muscat"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19d2"
+  },
+  "country_code": "PA",
+  "timezone_name": "America/Panama"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19d3"
+  },
+  "country_code": "PE",
+  "timezone_name": "America/Lima"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19d4"
+  },
+  "country_code": "PF",
+  "timezone_name": "Pacific/Tahiti"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19d5"
+  },
+  "country_code": "PF",
+  "timezone_name": "Pacific/Marquesas"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19d6"
+  },
+  "country_code": "PF",
+  "timezone_name": "Pacific/Gambier"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19d7"
+  },
+  "country_code": "PG",
+  "timezone_name": "Pacific/Port_Moresby"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19d8"
+  },
+  "country_code": "PG",
+  "timezone_name": "Pacific/Bougainville"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19d9"
+  },
+  "country_code": "PH",
+  "timezone_name": "Asia/Manila"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19da"
+  },
+  "country_code": "PK",
+  "timezone_name": "Asia/Karachi"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19db"
+  },
+  "country_code": "PL",
+  "timezone_name": "Europe/Warsaw"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19dc"
+  },
+  "country_code": "PM",
+  "timezone_name": "America/Miquelon"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19dd"
+  },
+  "country_code": "PN",
+  "timezone_name": "Pacific/Pitcairn"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19de"
+  },
+  "country_code": "PR",
+  "timezone_name": "America/Puerto_Rico"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19df"
+  },
+  "country_code": "PS",
+  "timezone_name": "Asia/Gaza"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19e0"
+  },
+  "country_code": "PS",
+  "timezone_name": "Asia/Hebron"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19e1"
+  },
+  "country_code": "PT",
+  "timezone_name": "Europe/Lisbon"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19e2"
+  },
+  "country_code": "PT",
+  "timezone_name": "Atlantic/Madeira"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19e3"
+  },
+  "country_code": "PT",
+  "timezone_name": "Atlantic/Azores"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19e4"
+  },
+  "country_code": "PW",
+  "timezone_name": "Pacific/Palau"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19e5"
+  },
+  "country_code": "PY",
+  "timezone_name": "America/Asuncion"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19e6"
+  },
+  "country_code": "QA",
+  "timezone_name": "Asia/Qatar"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19e7"
+  },
+  "country_code": "RE",
+  "timezone_name": "Indian/Reunion"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19e8"
+  },
+  "country_code": "RO",
+  "timezone_name": "Europe/Bucharest"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19e9"
+  },
+  "country_code": "RS",
+  "timezone_name": "Europe/Belgrade"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ea"
+  },
+  "country_code": "RU",
+  "timezone_name": "Europe/Kaliningrad"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19eb"
+  },
+  "country_code": "RU",
+  "timezone_name": "Europe/Moscow"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ec"
+  },
+  "country_code": "UA",
+  "timezone_name": "Europe/Simferopol"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ed"
+  },
+  "country_code": "RU",
+  "timezone_name": "Europe/Kirov"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ee"
+  },
+  "country_code": "RU",
+  "timezone_name": "Europe/Astrakhan"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ef"
+  },
+  "country_code": "RU",
+  "timezone_name": "Europe/Volgograd"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19f0"
+  },
+  "country_code": "RU",
+  "timezone_name": "Europe/Saratov"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19f1"
+  },
+  "country_code": "RU",
+  "timezone_name": "Europe/Ulyanovsk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19f2"
+  },
+  "country_code": "RU",
+  "timezone_name": "Europe/Samara"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19f3"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Yekaterinburg"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19f4"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Omsk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19f5"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Novosibirsk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19f6"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Barnaul"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19f7"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Tomsk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19f8"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Novokuznetsk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19f9"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Krasnoyarsk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19fa"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Irkutsk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19fb"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Chita"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19fc"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Yakutsk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19fd"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Khandyga"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19fe"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Vladivostok"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f19ff"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Ust-Nera"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a00"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Magadan"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a01"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Sakhalin"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a02"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Srednekolymsk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a03"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Kamchatka"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a04"
+  },
+  "country_code": "RU",
+  "timezone_name": "Asia/Anadyr"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a05"
+  },
+  "country_code": "RW",
+  "timezone_name": "Africa/Kigali"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a06"
+  },
+  "country_code": "SA",
+  "timezone_name": "Asia/Riyadh"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a07"
+  },
+  "country_code": "SB",
+  "timezone_name": "Pacific/Guadalcanal"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a08"
+  },
+  "country_code": "SC",
+  "timezone_name": "Indian/Mahe"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a09"
+  },
+  "country_code": "SD",
+  "timezone_name": "Africa/Khartoum"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a0a"
+  },
+  "country_code": "SE",
+  "timezone_name": "Europe/Stockholm"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a0b"
+  },
+  "country_code": "SG",
+  "timezone_name": "Asia/Singapore"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a0c"
+  },
+  "country_code": "SH",
+  "timezone_name": "Atlantic/St_Helena"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a0d"
+  },
+  "country_code": "SI",
+  "timezone_name": "Europe/Ljubljana"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a0e"
+  },
+  "country_code": "SJ",
+  "timezone_name": "Arctic/Longyearbyen"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a0f"
+  },
+  "country_code": "SK",
+  "timezone_name": "Europe/Bratislava"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a10"
+  },
+  "country_code": "SL",
+  "timezone_name": "Africa/Freetown"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a11"
+  },
+  "country_code": "SM",
+  "timezone_name": "Europe/San_Marino"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a12"
+  },
+  "country_code": "SN",
+  "timezone_name": "Africa/Dakar"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a13"
+  },
+  "country_code": "SO",
+  "timezone_name": "Africa/Mogadishu"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a14"
+  },
+  "country_code": "SR",
+  "timezone_name": "America/Paramaribo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a15"
+  },
+  "country_code": "SS",
+  "timezone_name": "Africa/Juba"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a16"
+  },
+  "country_code": "ST",
+  "timezone_name": "Africa/Sao_Tome"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a17"
+  },
+  "country_code": "SV",
+  "timezone_name": "America/El_Salvador"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a18"
+  },
+  "country_code": "SX",
+  "timezone_name": "America/Lower_Princes"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a19"
+  },
+  "country_code": "SY",
+  "timezone_name": "Asia/Damascus"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a1a"
+  },
+  "country_code": "SZ",
+  "timezone_name": "Africa/Mbabane"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a1b"
+  },
+  "country_code": "TC",
+  "timezone_name": "America/Grand_Turk"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a1c"
+  },
+  "country_code": "TD",
+  "timezone_name": "Africa/Ndjamena"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a1d"
+  },
+  "country_code": "TF",
+  "timezone_name": "Indian/Kerguelen"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a1e"
+  },
+  "country_code": "TG",
+  "timezone_name": "Africa/Lome"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a1f"
+  },
+  "country_code": "TH",
+  "timezone_name": "Asia/Bangkok"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a20"
+  },
+  "country_code": "TJ",
+  "timezone_name": "Asia/Dushanbe"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a21"
+  },
+  "country_code": "TK",
+  "timezone_name": "Pacific/Fakaofo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a22"
+  },
+  "country_code": "TL",
+  "timezone_name": "Asia/Dili"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a23"
+  },
+  "country_code": "TM",
+  "timezone_name": "Asia/Ashgabat"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a24"
+  },
+  "country_code": "TN",
+  "timezone_name": "Africa/Tunis"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a25"
+  },
+  "country_code": "TO",
+  "timezone_name": "Pacific/Tongatapu"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a26"
+  },
+  "country_code": "TR",
+  "timezone_name": "Europe/Istanbul"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a27"
+  },
+  "country_code": "TT",
+  "timezone_name": "America/Port_of_Spain"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a28"
+  },
+  "country_code": "TV",
+  "timezone_name": "Pacific/Funafuti"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a29"
+  },
+  "country_code": "TW",
+  "timezone_name": "Asia/Taipei"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a2a"
+  },
+  "country_code": "TZ",
+  "timezone_name": "Africa/Dar_es_Salaam"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a2b"
+  },
+  "country_code": "UA",
+  "timezone_name": "Europe/Kiev"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a2c"
+  },
+  "country_code": "UA",
+  "timezone_name": "Europe/Uzhgorod"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a2d"
+  },
+  "country_code": "UA",
+  "timezone_name": "Europe/Zaporozhye"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a2e"
+  },
+  "country_code": "UG",
+  "timezone_name": "Africa/Kampala"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a2f"
+  },
+  "country_code": "UM",
+  "timezone_name": "Pacific/Midway"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a30"
+  },
+  "country_code": "UM",
+  "timezone_name": "Pacific/Wake"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a31"
+  },
+  "country_code": "US",
+  "timezone_name": "America/New_York"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a32"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Detroit"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a33"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Kentucky/Louisville"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a34"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Kentucky/Monticello"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a35"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Indiana/Indianapolis"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a36"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Indiana/Vincennes"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a37"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Indiana/Winamac"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a38"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Indiana/Marengo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a39"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Indiana/Petersburg"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a3a"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Indiana/Vevay"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a3b"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Chicago"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a3c"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Indiana/Tell_City"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a3d"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Indiana/Knox"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a3e"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Menominee"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a3f"
+  },
+  "country_code": "US",
+  "timezone_name": "America/North_Dakota/Center"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a40"
+  },
+  "country_code": "US",
+  "timezone_name": "America/North_Dakota/New_Salem"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a41"
+  },
+  "country_code": "US",
+  "timezone_name": "America/North_Dakota/Beulah"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a42"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Denver"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a43"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Boise"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a44"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Phoenix"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a45"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Los_Angeles"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a46"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Anchorage"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a47"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Juneau"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a48"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Sitka"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a49"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Metlakatla"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a4a"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Yakutat"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a4b"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Nome"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a4c"
+  },
+  "country_code": "US",
+  "timezone_name": "America/Adak"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a4d"
+  },
+  "country_code": "US",
+  "timezone_name": "Pacific/Honolulu"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a4e"
+  },
+  "country_code": "UY",
+  "timezone_name": "America/Montevideo"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a4f"
+  },
+  "country_code": "UZ",
+  "timezone_name": "Asia/Samarkand"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a50"
+  },
+  "country_code": "UZ",
+  "timezone_name": "Asia/Tashkent"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a51"
+  },
+  "country_code": "VA",
+  "timezone_name": "Europe/Vatican"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a52"
+  },
+  "country_code": "VC",
+  "timezone_name": "America/St_Vincent"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a53"
+  },
+  "country_code": "VE",
+  "timezone_name": "America/Caracas"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a54"
+  },
+  "country_code": "VG",
+  "timezone_name": "America/Tortola"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a55"
+  },
+  "country_code": "VI",
+  "timezone_name": "America/St_Thomas"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a56"
+  },
+  "country_code": "VN",
+  "timezone_name": "Asia/Ho_Chi_Minh"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a57"
+  },
+  "country_code": "VU",
+  "timezone_name": "Pacific/Efate"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a58"
+  },
+  "country_code": "WF",
+  "timezone_name": "Pacific/Wallis"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a59"
+  },
+  "country_code": "WS",
+  "timezone_name": "Pacific/Apia"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a5a"
+  },
+  "country_code": "YE",
+  "timezone_name": "Asia/Aden"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a5b"
+  },
+  "country_code": "YT",
+  "timezone_name": "Indian/Mayotte"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a5c"
+  },
+  "country_code": "ZA",
+  "timezone_name": "Africa/Johannesburg"
+},{
+  "_id": {
+    "$oid": "5dfcd8b21c8a9b25f71f1a5d"
+  },
+  "country_code": "ZM",
+  "timezone_name": "Africa/Lusaka"
+}]

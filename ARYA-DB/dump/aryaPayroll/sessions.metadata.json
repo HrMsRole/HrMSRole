@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"aryaPayroll.sessions"},{"v":{"$numberInt":"2"},"key":{"expires":{"$numberInt":"1"}},"name":"expires_1","ns":"aryaPayroll.sessions","expireAfterSeconds":{"$numberInt":"0"}}],"uuid":"9d7fbb353d57499385a63c32676bbc3e"}
